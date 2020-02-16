@@ -19,10 +19,7 @@
 .logo {
 
     width:40px;
-
-    /* position:absolute;
-    top:10px;
-    left:30px; */
+    height:auto;
 
     
 }
@@ -30,7 +27,7 @@
 .container {
 
     margin: 0 auto;
-    display: inline-block;
+    /* display: inline-block; */
 
 
 }
