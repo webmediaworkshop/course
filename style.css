@@ -11,6 +11,8 @@
     background: #8AA9A8;
     display: flex;
     padding:30px;
+    align-items: center;
+    justify-content: center;
     
     
 
@@ -27,7 +29,7 @@
 .container {
 
     margin: 0 auto;
-    /* display: inline-block; */
+    display: inline-block; 
 
 
 }
