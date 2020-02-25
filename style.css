@@ -46,6 +46,7 @@ h1 {
  font-weight: 200;
 
 
+
 }
 
 
@@ -55,12 +56,13 @@ h2 {
     padding:30px;
     font-size: 30px;
     font-weight: 400;
+    display: inline-block;
 
 }
 
 h3 {
     
-    margin: 10px 0 10px 50px;
+    margin: 10px 0 20px 50px;
 
     font-size: 20px;
     font-weight: 200;
@@ -86,5 +88,12 @@ h4 {
     font-size: 15px;
     color: #4d2c7a;
     font-weight: 200;
-    margin-botom:50px;
+}
+
+.lesson2 h3 {
+
+    margin: 40px 0 20px 50px;
+    font-size: 20px;
+    font-weight: 200;
+
 }
